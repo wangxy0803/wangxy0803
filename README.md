@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xiyu Wang</h1>
-<h3 align="center">An undergraduate student from SYSU ISE</h3>
+<h3 align="center">An master student from UCSD ECE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wangxy0803&label=Profile%20views&color=0e75b6&style=flat" alt="wangxy0803" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **FKP of parallel robots**
 
-- 🌱 I’m currently learning **machine learning**
+- 🌱 I’m currently learning **machine learning and data science**
 
-- 📫 How to reach me **wangxy623@mail2.sysu.edu.cn**
+- 📫 How to reach me **xiw186@ucsd.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
