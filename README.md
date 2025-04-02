@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xiyu Wang</h1>
-<h3 align="center">An master student from UCSD ECE</h3>
+<h3 align="center">A master student from UCSD ECE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wangxy0803&label=Profile%20views&color=0e75b6&style=flat" alt="wangxy0803" /> </p>
 
