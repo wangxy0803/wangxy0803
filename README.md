@@ -1,5 +1,5 @@
 <h2> Hi 👋, I'm Xiyu (Serena) Wang! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/jkSvCVEXWlOla/giphy.gif" width="280">
+<img align='right' src="https://media.giphy.com/media/jkSvCVEXWlOla/giphy.gif" width="270">
 <p><em>MS in Machine Learning and Data Science at <a href="https://ece.ucsd.edu/">University of California, San Diego</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Ex Data Science Intern at <a href="https://www.insta360.com/us/">Insta360</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Ex Machine Learnning Research Assistant at <a href="https://ise.sysu.edu.cn/">SYSU ISE </a>supervised by <a href="https://mengtangli.github.io">Prof.Mengtang Li</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
