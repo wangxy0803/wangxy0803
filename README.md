@@ -1,5 +1,5 @@
-<h2> Hi 👋, I'm Xiyu (Serena Wang)! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<h2> Hi 👋, I'm Xiyu (Serena) Wang! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/jkSvCVEXWlOla/giphy.gif" width="300">
 <p><em>MS in Machine Learning and Data Science at <a href="https://ece.ucsd.edu/">University of California, San Diego</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Ex Data Science Intern at <a href="https://www.insta360.com/us/">Insta360</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Ex Machine Learnning Research Assistant at <a href="https://ise.sysu.edu.cn/">SYSU ISE </a>supervised by <a href="https://mengtangli.github.io">Prof.Mengtang Li</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -13,8 +13,11 @@
 serena = {
     "pronouns": ["she", "her"],
     "code": ["Python", "SQL", "R"],
-    "tools": ["React", "Redux", "Node", "Storybook", "Styled-Components", "Jest", "Docker"],
-    "architecture": ["microservices", "event-driven", "design system pattern"],
+    "tools": ["Airflow", "dbt", "Git", "MLflow", "Tableau"],
+    "databases": ["MySQL", "BigQuery", "Snowflake", "Redshift"],
+    "cloud": ["AWS", "GCP", "Azure"],
+    "architecture": ["ETL pipelines", "Data warehouse", "ML models", "MLOps"],
+    "methods": ["A/B Testing", "Causal Inference", "Time Series Forecasting", "Regression Analysis"],
     "Goal": "Growth enthusiast turning data into the blueprint for smarter business decisions"
 }
 ```
