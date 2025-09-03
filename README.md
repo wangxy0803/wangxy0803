@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋, I'm Xiyu Wang</h1>
-<h3 align="center">A master student from UCSD ECE</h3>
+<h1 align="center">Hi 👋, I'm Xiyu (Serena) Wang</h1>
+<h3 align="center">Growth enthusiast turning data into the blueprint for smarter business decisions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wangxy0803&label=Profile%20views&color=0e75b6&style=flat" alt="wangxy0803" /> </p>
+- 🔭 Currently a master studuent from UCSD learning **machine learning and data science**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wangxy0803" alt="wangxy0803" /></a> </p>
-
-- 🔭 I’m currently working on **FKP of parallel robots**
-
-- 🌱 I’m currently learning **machine learning and data science**
+- 🌱 Previous data intern @insta360, machine learning research assistant @SYSU ISE ROBOT LAB
 
 - 📫 How to reach me **xiw186@ucsd.edu**
 
